@@ -12,4 +12,4 @@ there is 6 code for training SOM model every code using different features
 
 5-Project-Ali3.ipynb this code using TCP protocols with 35 features, for the label used 44 number features.
 
-6-Copy_of_Project3.ipynb this code using TCP protocols with 35 features, for the label used 44 number features and prediction part.
+6-SOM-Prediction.ipynb this code using TCP protocols with 35 features, for the label used 44 number features and prediction part.
